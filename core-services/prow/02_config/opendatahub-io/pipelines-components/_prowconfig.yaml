@@ -11,3 +11,6 @@ tide:
     - jira/invalid-bug
     repos:
     - opendatahub-io/pipelines-components
+  merge_method:
+    opendatahub-io/pipelines-components: squash
+  merge_label: tide/merge
